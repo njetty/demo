@@ -8,9 +8,6 @@
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
-  "profile": {
-    "name": "typicode"
-  },
   "resp" : [
     {
         "designerCollectionUId": "C1",
@@ -58,5 +55,8 @@
         "creationDate": 1549058061724,
         "updateDate": 1549058061724
     }
-],
+  ],
+  "profile": {
+    "name": "typicode"
+  },
 }
